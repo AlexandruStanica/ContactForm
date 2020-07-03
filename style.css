@@ -156,6 +156,7 @@ h3 {
     font-size: 2rem;
     font-family: "Poppins", sans-serif;
     padding: 0.5rem 2rem;
+    outline: none;
 }
 
 .message::placeholder {
